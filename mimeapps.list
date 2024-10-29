@@ -1,10 +1,10 @@
 [Default Applications]
 image/jpeg=firefox.desktop
-application/pdf=firefox-developer-edition.desktop
+application/pdf=zen-alpha.desktop
 image/png=feh.desktop
 
 [Added Associations]
 image/jpeg=kitty.desktop;firefox.desktop;
-application/pdf=vim.desktop;mupdf.desktop;firefox.desktop;firefox-developer-edition.desktop;
+application/pdf=zen-alpha.desktop;vim.desktop;mupdf.desktop;firefox.desktop;firefox-developer-edition.desktop;
 image/png=firefox.desktop;feh.desktop;
 image/gif=firefox.desktop;

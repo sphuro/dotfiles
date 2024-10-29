@@ -1,0 +1,5 @@
+# GIMP gimp-fuzzy-select-tool options
+
+(threshold 60)
+
+# end of gimp-fuzzy-select-tool options

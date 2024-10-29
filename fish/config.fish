@@ -12,5 +12,10 @@ if status is-interactive
     alias start="systemctl start"
     alias disable="systemctl disable"
     # alias uninstall="sudo pacman -R"
-    alias faf="fastfetch --logo-width 45 --logo-height 26 --logo cypher.png"
+    alias faf="fastfetch --logo-width 45 --logo-height 26 --logo ~/.config/fastfetch/wallpaper/bwcypher.jpg"
+    set -U fish_user_paths $HOME/.local/share/gem/ruby/3.2.0/bin $fish_user_paths
+    set -x OCC_INCLUDE_DIR /path/to/occ/include
+    set -x OCC_LIBRARY_DIR /path/to/occ/lib
+    #Exec=env LD_PRELOAD=/usr/lib/libfreetype.so.6 
+
 end
