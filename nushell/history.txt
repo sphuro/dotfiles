@@ -1,0 +1,14 @@
+ls
+cd Cursor/
+cd ..
+cd Cursor/
+cd
+l
+ls
+la
+ls -all
+a = echo hi
+a=$(echo hi)
+a =" hi"
+a="hi"
+exit

@@ -1,6 +1,6 @@
 [Default Applications]
 image/jpeg=firefox.desktop
-application/pdf=zen-alpha.desktop
+application/pdf=firefox.desktop
 image/png=feh.desktop
 
 [Added Associations]
