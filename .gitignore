@@ -1,5 +1,14 @@
 # ignore ALL files in ANY directory listed bellow
 discord/
+JetBrains/
+github-copilot/
+Code/
+coc/
+calcurse/
+GIMP/
+slstatus/
+pics/
+nushell/
 chromium/
 pulse/
 bashtop/

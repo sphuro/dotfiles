@@ -94,7 +94,7 @@ local function map(mode, lhs, rhs, opts)
 	vim.api.nvim_set_keymap(mode, lhs, rhs, options)
 end
 
-map("n", "<C-r>", ":CompetiTest run<CR>")
+map("n", "<C-b>", ":CompetiTest run<CR>")
 map("n", "<C-t>", ":CompetiTest receive problem<CR>")
 map("n", "<C-m>", ":CompetiTest add_testcase<CR>")
 
