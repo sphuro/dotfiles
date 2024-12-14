@@ -1,4 +1,5 @@
 # ignore ALL files in ANY directory listed bellow
+arduino-ide
 discord/
 JetBrains/
 github-copilot/
@@ -37,3 +38,6 @@ Arduino\ IDE/
 Cursor/
 dconf/
 flameshot/
+BraveSoftware/
+zoom.conf
+zoomus.conf
